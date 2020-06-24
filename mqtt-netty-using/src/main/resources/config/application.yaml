@@ -1,0 +1,6 @@
+server:
+  port: 8201
+logging:
+  file: mqtt-netty-using/logs/mqtt-netty-using.log
+  level:
+    root: info
