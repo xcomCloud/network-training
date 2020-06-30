@@ -9,6 +9,9 @@
     <version>1.0.0.1</version>
     <modules>
         <module>mqtt-netty-using</module>
+        <module>socketio-netty</module>
+        <module>netty-socket-server</module>
+        <module>netty-socket-clients</module>
     </modules>
     <packaging>pom</packaging>
 

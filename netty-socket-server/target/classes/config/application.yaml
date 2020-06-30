@@ -1,0 +1,6 @@
+server:
+  port: 8203
+logging:
+  file: netty-socket-server/logs/netty-socket-server.log
+  level:
+    root: info
