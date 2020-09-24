@@ -1,0 +1,19 @@
+server:
+  port: 8202
+logging:
+  file: socketio-netty/logs/socketio-netty.log
+  level:
+    root: info
+########### netty ###########
+io:
+  netty:
+    host: 192.168.3.67
+    port: 9999
+    bossThreads: 1
+    workerThreads: 100
+    allowCustomRequests: true
+    upgradeTimeout: 1000000
+    pingTimeout: 60000000
+    pingInterval: 30000
+    maxFramePayloadLength: 1048576
+    maxHttpContentLength: 1048576

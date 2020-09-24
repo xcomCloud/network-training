@@ -1,0 +1,5 @@
+server:
+  port: 8205
+logging:
+  file:
+    name: socket-demo/logs/socket-demo.log

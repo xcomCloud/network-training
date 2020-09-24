@@ -1,0 +1,14 @@
+#git ignore
+.idea
+
+#mqtt-netty-using
+mqtt-netty-using/target/
+mqtt-netty-using/logs/
+
+#netty-socket-server
+netty-socket-server/target
+netty-socket-server/logs
+
+# socket-demo
+socket-demo/target
+socket-demo/logs
