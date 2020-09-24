@@ -1,5 +1,6 @@
 #git ignore
 .idea
+*.iml
 
 #mqtt-netty-using
 mqtt-netty-using/target/
@@ -8,6 +9,10 @@ mqtt-netty-using/logs/
 #netty-socket-server
 netty-socket-server/target
 netty-socket-server/logs
+
+#socketio-netty
+socketio-netty/target
+socketio-netty/logs
 
 # socket-demo
 socket-demo/target
