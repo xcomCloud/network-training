@@ -4,3 +4,8 @@ logging:
   file: netty-socket-server/logs/netty-socket-server.log
   level:
     root: info
+
+#####################################
+socket:
+  tcp:
+    port: 8066

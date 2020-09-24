@@ -12,6 +12,7 @@
         <module>socketio-netty</module>
         <module>netty-socket-server</module>
         <module>netty-socket-clients</module>
+        <module>socket-demo</module>
     </modules>
     <packaging>pom</packaging>
 
